@@ -35,4 +35,4 @@ El objetivo fue construir una página web de venta de productos utilizando **Boo
 ## ▶️ Ejecución
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/cuppon.git
+   git clone https://github.com/NicoMunozJS/desafio-04-cupon
